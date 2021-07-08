@@ -9,4 +9,15 @@ src/*.dmp
 src/NUL
 src/nvr/
 src/roms/
+src/include/86box/version.h
 /.vs
+.vscode/
+.clangd
+arch.c
+build/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
